@@ -89,6 +89,11 @@ This makes it ideal for writing assistants, chatbots, content creation, and more
 
 # PROGRAM
 
+![Image](https://github.com/user-attachments/assets/f535296c-ac5b-4387-8d15-2bb45b335d81)
 
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/c37598d5-9d96-4bf4-b07a-9c157e88a417)
+
+![Image](https://github.com/user-attachments/assets/5c70d2a0-eb54-46a5-b83e-7569afa78952)
